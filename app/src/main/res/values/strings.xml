@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DailySelfie</string>
+    <string name="action_selfie">Take a Selfie</string>
+    <string name="selfieThumbnail">Thumbnail Selfie</string>
+    <string name="selfieDayLabel">Date : </string>
+    <string name="selfieHourLabel">Hour : </string>
+    <string name="selfieDetailDescription">Selfie Detail</string>
+    <string name="selfieNotificationDescription">Time for another selfie</string>
+</resources>
